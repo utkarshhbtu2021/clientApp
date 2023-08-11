@@ -7,6 +7,7 @@ const Congratulation = () => {
     <>
       <View>
         <Fireworks width="500" height="500" />
+        <Text></Text>
       </View>
     </>
   );
